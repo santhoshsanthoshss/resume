@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+   
+    margin-top: 50px;
+    margin-left: 230px;
+    height: 250px;
+    width: 62%;
+    background-color: rgba(128, 128, 128, 0.767);
+}
+.cross{
+   
+    width: 62%;
+    height: 50px;
+     margin-top: -100px; 
+     margin-left: 230px;
+    background-color: rgba(255, 255, 255, 0.925) ;
+    position: absolute;
+
+}
+.cross img{
+
+    margin-top: -135px;
+    margin-left: 43%;
+
+    width: 130px;
+    position: absolute;
+}
+.yellow{
+    border-radius:12px ;
+    width: 40%;
+    height: 80px;
+    margin-top: -15px;
+    margin-left: 280px;
+    background-color: yellow;
+}
+.yellow  h1{
+    align-items: center;
+    position: absolute;
+    font-size: 48px;
+    margin-top: 15px;
+    margin-left: 24px;
+
+}
+.name p{
+margin-left: 25%;
+font-size: 17px;
+}
+.name h2{
+    margin-top: -25px;
+    margin-left:25%;
+    color: gray;
+}
+hr{
+    width: 62%;
+    margin-left: 230px;
+}
+.fa-solid {
+ margin-top: 30px;
+margin-left: 22%;
+font-size: 26px;
+color: orangered;
+}
+/* .profile{
+    width: 50px;
+    margin-left: 50px;
+    height: 80%;
+    background-color: green;
+    
+} */
+.profile p{
+    margin-top: 15px;
+    margin-left: 22%;
+    /* position: absolute; */
+}
+.shape{
+    width: 2px;
+    margin-top: -99px;
+    margin-left: 48%;
+    height: 390px;
+    /* background-color: rgba(128, 128, 128, 0.747); */
+}
+    
+
+
+.experince{
+    margin-top: -430px;
+    margin-left: 38%;
+}
+.experince h2{
+    margin-top: -28px;
+    margin-left: 28%;
+    color: gray;
+}
+
+.skill{
+    margin-top: 80px;
+}
+.skill h2{
+    margin-top: -29px;
+    margin-left: 25%;
+    color: gray;
+}
+
+.relational{
+    margin-top: -110px;
+    margin-left: 50%;
+}
+.move{
+    margin-left:20px;
+}
+.technical{
+    margin-top: -60px;
+    margin-left: 420px;
+}
+
+.script{
+    margin-left: -100px;
+    position: absolute;
+}
+.view{
+    
+   margin-left: 50px;
+   width: 15%;
+}
+.education{
+    margin-top: -250px;
+    margin-left:38%;
+}
+.education h2{
+    margin-top: -30px;
+    margin-left:29%;
+    color: gray;
+}
+.education h4{
+    margin-top: 20px;
+    margin-left:19%;
+}
+.education P{
+    margin-left:19%; 
+}
+.project{
+    margin-top: 15px;
+}
+.react{
+    margin-top: 20px;
+    margin-left:50%;  
+}
+.date{
+    margin-top: 10px;
+    margin-left: 62%;
+}
+.english{
+    margin-left: 50%;
+}
+.angle{
+    margin-left: 50%;
+}
+.work{
+    margin-top: -420px;
+}
+.empty{
+    margin-top: -30px;
+    margin-left: 25%;
+    color: gray;
+}
+.current{
+    margin-top: 10px;
+    margin-left: 35%;
+}
+.event{
+    margin-left: 22%; 
+}
+.washing{
+    margin-left: 22%; 
+}
+.phase{
+    margin-top: 10px;
+    margin-left: 22%;
+}
+
+.line{
+    width: 2px;
+    margin-top: -940px;
+    margin-left: 48%;
+    height: 950px;
+    background-color: red;
+}
